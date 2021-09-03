@@ -3,10 +3,10 @@
   font-size: 25px;
 }
 html {
-  box-sizing: border-box;
+  box-sizing: border-box
 }
 .tcenter {
-  text-align: center;
+  text-align: center
 }
 .hidden {
   display: none;
